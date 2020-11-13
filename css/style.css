@@ -221,3 +221,20 @@ header.masthead p {
 .contact-section {
   padding-top: 3rem;
 }
+
+.members-image {
+  border-radius: 50%;
+  max-width: 40px;
+}
+
+.modal-dialog {
+  top: 30%;
+}
+
+.modal-personal {
+  max-width: 650px;
+}
+
+.personal-image {
+  margin-top: 40px;
+}
