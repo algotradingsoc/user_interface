@@ -176,8 +176,6 @@ header.masthead {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.7) 30%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../img/background-pic.jpg");
-  background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
@@ -237,4 +235,8 @@ header.masthead p {
 
 .personal-image {
   margin-top: 40px;
+}
+
+.research-box {
+  width: 85vw;
 }
