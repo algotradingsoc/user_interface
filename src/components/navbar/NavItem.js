@@ -2,7 +2,7 @@ import React from 'react'
 
 function NavItem(props) {
     return (
-        <li>
+        <li className="nav-item">
             <a className="nav-link js-scroll-trigger" href={props.url}>{props.category}</a>
         </li>
     )

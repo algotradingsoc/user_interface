@@ -5,7 +5,7 @@ function Title() {
         <header className="masthead text-center text-white d-flex"
                 style={{"background": "linear-gradient(to bottom, rgba(22, 22, 22, 0.7) 50%, rgba(22, 22, 22, 0.5) 75%, " +
                         "#161616 100%), url(" + process.env.PUBLIC_URL + "/images/background-pic.jpg)",
-                        "backgroundPosition": "center center", "backgroundSize": "cover" }}>>
+                        "backgroundPosition": "center center", "backgroundSize": "cover" }}>
             <div className="container my-auto">
                 <div className="row">
                     <div className="col-lg-10 mx-auto">
